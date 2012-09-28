@@ -1,0 +1,2 @@
+dbus-send --session --type=method_call --print-reply --dest=org.gnome.Shell /org/gnome/Shell org.freedesktop.DBus.Properties.GetAll string:org.gnome.Shell
+gdbus introspect --session --dest org.gnome.Shell --object-path /org/gnome/Shell
