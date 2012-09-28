@@ -1,0 +1,7 @@
+{
+    "shell-version": ["3.4.2"],
+    "uuid": "update-notifier@tuxdude.gnome.shell",
+    "name": "Update Notifier",
+    "description": "An applet to notify Software Updates in the Panel.",
+    "url" : "https://github.com/Tuxdude/update-notifier"
+}
